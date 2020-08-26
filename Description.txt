@@ -1,7 +1,7 @@
 Run Locally
 1. Clone repo
-$ git clone https://github.com/Subhamchar41/Easycart_Ecommerce.git
-$ cd Easycart_Ecommerce
+$ git clone https://github.com/Subhamchar41/Easycart.git
+$ cd Easycart
 
 2. Install MongoDB
 Download it from here: https://docs.mongodb.com/manual/administration/install-community/
